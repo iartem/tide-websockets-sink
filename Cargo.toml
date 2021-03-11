@@ -1,9 +1,9 @@
 [package]
-name = "tide-websockets"
+name = "tide-websockets-sink"
 version = "0.3.0"
 authors = ["Jacob Rothstein <hi@jbr.me>"]
 edition = "2018"
-description = "tide websockets"
+description = "tide websockets w/ sink trait support"
 readme = "README.md"
 repository = "https://github.com/http-rs/tide-websockets"
 documentation = "https://docs.rs/tide-websockets"

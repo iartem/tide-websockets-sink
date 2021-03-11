@@ -1,5 +1,6 @@
-# tide-websockets
+# tide-websockets-sink
 
+> Fork of [https://github.com/http-rs/tide-websockets/](tide-websockets) that includes Sink trait contributions from the community ([#3](https://github.com/http-rs/tide-websockets/pull/3), [#9](https://github.com/http-rs/tide-websockets/pull/9)).
 
 ## experimental websockets handler for [tide](https://github.com/http-rs/tide) based on [async-tungstenite](https://github.com/sdroege/async-tungstenite)
 
@@ -17,7 +18,7 @@
 
 ## Installation
 ```sh
-$ cargo add tide-websockets
+$ cargo add tide-websockets-sink
 ```
 
 ## Using with tide
