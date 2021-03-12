@@ -1,12 +1,12 @@
 [package]
 name = "tide-websockets-sink"
 version = "0.3.0"
-authors = ["Jacob Rothstein <hi@jbr.me>"]
+authors = ["Hunter Trujillo <cryptoquick@pm.me>"]
 edition = "2018"
 description = "tide websockets w/ sink trait support"
 readme = "README.md"
-repository = "https://github.com/http-rs/tide-websockets"
-documentation = "https://docs.rs/tide-websockets"
+repository = "https://github.com/http-rs/tide-websockets-sink"
+documentation = "https://docs.rs/tide-websockets-sink"
 license = "MIT OR Apache-2.0"
 keywords = ["tide", "websockets"]
 categories = ["web-programming::http-server", "web-programming"]

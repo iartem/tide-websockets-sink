@@ -1,5 +1,5 @@
 use async_std::prelude::*;
-use tide_websockets::{Message, WebSocket};
+use tide_websockets_sink::{Message, WebSocket};
 
 #[async_std::main]
 async fn main() -> Result<(), std::io::Error> {

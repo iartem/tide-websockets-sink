@@ -1,6 +1,6 @@
 # tide-websockets-sink
 
-> Fork of [https://github.com/http-rs/tide-websockets/](tide-websockets) that includes Sink trait contributions from the community ([#3](https://github.com/http-rs/tide-websockets/pull/3), [#9](https://github.com/http-rs/tide-websockets/pull/9)).
+> This is a fork of [https://github.com/http-rs/tide-websockets/](tide-websockets) that includes Sink trait contributions from the community ([#3](https://github.com/http-rs/tide-websockets/pull/3), [#9](https://github.com/http-rs/tide-websockets/pull/9)). It will be kept in **sync** with the upstream implementation. The scope of this library may grow depending upon whether community contributions in the upstream library are accepted. This will be the *"kitchen sink"* of misfit pull requests.
 
 ## experimental websockets handler for [tide](https://github.com/http-rs/tide) based on [async-tungstenite](https://github.com/sdroege/async-tungstenite)
 
@@ -8,13 +8,13 @@
 * [API Docs][docs] [![docs.rs docs][docs-badge]][docs]
 * [Releases][releases] [![crates.io version][version-badge]][lib-rs]
 
-[ci]: https://github.com/http-rs/tide-websockets/actions?query=workflow%3ACI
-[ci-badge]: https://github.com/http-rs/tide-websockets/workflows/CI/badge.svg
-[releases]: https://github.com/http-rs/tide-websockets/releases
-[docs]: https://docs.rs/tide-websockets
-[lib-rs]: https://lib.rs/tide-websockets
+[ci]: https://github.com/http-rs/tide-websockets-sink/actions?query=workflow%3ACI
+[ci-badge]: https://github.com/http-rs/tide-websockets-sink/workflows/CI/badge.svg
+[releases]: https://github.com/http-rs/tide-websockets-sink/releases
+[docs]: https://docs.rs/tide-websockets-sink
+[lib-rs]: https://lib.rs/tide-websockets-sink
 [docs-badge]: https://img.shields.io/badge/docs-latest-blue.svg?style=flat-square
-[version-badge]: https://img.shields.io/crates/v/tide-websockets.svg?style=flat-square
+[version-badge]: https://img.shields.io/crates/v/tide-websockets-sink.svg?style=flat-square
 
 ## Installation
 ```sh

@@ -31,7 +31,7 @@ const WEBSOCKET_GUID: &str = "258EAFA5-E914-47DA-95CA-C5AB0DC85B11";
 ///
 /// ```rust
 /// use async_std::prelude::*;
-/// use tide_websockets::{Message, WebSocket};
+/// use tide_websockets_sink::{Message, WebSocket};
 ///
 /// #[async_std::main]
 /// async fn main() -> Result<(), std::io::Error> {
@@ -68,7 +68,7 @@ const WEBSOCKET_GUID: &str = "258EAFA5-E914-47DA-95CA-C5AB0DC85B11";
 ///
 /// ```rust
 /// use async_std::prelude::*;
-/// use tide_websockets::{Message, WebSocket};
+/// use tide_websockets_sink::{Message, WebSocket};
 ///
 /// #[async_std::main]
 /// async fn main() -> Result<(), std::io::Error> {

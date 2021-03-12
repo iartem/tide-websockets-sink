@@ -5,7 +5,7 @@ use std::sync::{Arc, Mutex};
 use tide::http::mime;
 use tide::log::*;
 use tide::Response;
-use tide_websockets::{Message, WebSocket};
+use tide_websockets_sink::{Message, WebSocket};
 
 struct State {
     connections: HashMap<u32, Sender<Message>>,
