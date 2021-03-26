@@ -5,7 +5,7 @@
 ## experimental websockets handler for [tide](https://github.com/http-rs/tide) based on [async-tungstenite](https://github.com/sdroege/async-tungstenite)
 
 * [API Docs][docs] [![docs.rs docs][docs-badge]][docs]
-* [Releases][releases] [![crates.io version][version-badge]][lib-rs]
+* [![crates.io version][version-badge]][lib-rs]
 
 [docs]: https://docs.rs/tide-websockets-sink
 [lib-rs]: https://lib.rs/tide-websockets-sink
